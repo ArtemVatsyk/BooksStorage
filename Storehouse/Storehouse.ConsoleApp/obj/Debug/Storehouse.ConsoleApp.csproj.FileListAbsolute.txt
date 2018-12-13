@@ -1,0 +1,15 @@
+C:\Users\samal\source\repos\Storehouse\Storehouse.ConsoleApp\bin\Debug\Storehouse.ConsoleApp.exe.config
+C:\Users\samal\source\repos\Storehouse\Storehouse.ConsoleApp\bin\Debug\Storehouse.ConsoleApp.exe
+C:\Users\samal\source\repos\Storehouse\Storehouse.ConsoleApp\bin\Debug\Storehouse.ConsoleApp.pdb
+C:\Users\samal\source\repos\Storehouse\Storehouse.ConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\samal\source\repos\Storehouse\Storehouse.ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\samal\source\repos\Storehouse\Storehouse.ConsoleApp\bin\Debug\Storehouse.Core.dll
+C:\Users\samal\source\repos\Storehouse\Storehouse.ConsoleApp\bin\Debug\Storehouse.Core.pdb
+C:\Users\samal\source\repos\Storehouse\Storehouse.ConsoleApp\bin\Debug\Storehouse.Core.dll.config
+C:\Users\samal\source\repos\Storehouse\Storehouse.ConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\samal\source\repos\Storehouse\Storehouse.ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\samal\source\repos\Storehouse\Storehouse.ConsoleApp\obj\Debug\Storehouse.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\samal\source\repos\Storehouse\Storehouse.ConsoleApp\obj\Debug\Storehouse.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\samal\source\repos\Storehouse\Storehouse.ConsoleApp\obj\Debug\Storehouse.ConsoleApp.csproj.CopyComplete
+C:\Users\samal\source\repos\Storehouse\Storehouse.ConsoleApp\obj\Debug\Storehouse.ConsoleApp.exe
+C:\Users\samal\source\repos\Storehouse\Storehouse.ConsoleApp\obj\Debug\Storehouse.ConsoleApp.pdb

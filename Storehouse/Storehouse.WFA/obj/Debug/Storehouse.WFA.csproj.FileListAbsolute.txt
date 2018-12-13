@@ -1,0 +1,13 @@
+C:\Users\samal\source\repos\Storehouse\Storehouse.WFA\bin\Debug\Storehouse.WFA.exe.config
+C:\Users\samal\source\repos\Storehouse\Storehouse.WFA\bin\Debug\Storehouse.WFA.exe
+C:\Users\samal\source\repos\Storehouse\Storehouse.WFA\bin\Debug\Storehouse.WFA.pdb
+C:\Users\samal\source\repos\Storehouse\Storehouse.WFA\obj\Debug\Storehouse.WFA.csprojAssemblyReference.cache
+C:\Users\samal\source\repos\Storehouse\Storehouse.WFA\obj\Debug\Storehouse.WFA.Properties.Resources.resources
+C:\Users\samal\source\repos\Storehouse\Storehouse.WFA\obj\Debug\Storehouse.WFA.csproj.GenerateResource.cache
+C:\Users\samal\source\repos\Storehouse\Storehouse.WFA\obj\Debug\Storehouse.WFA.csproj.CoreCompileInputs.cache
+C:\Users\samal\source\repos\Storehouse\Storehouse.WFA\obj\Debug\Storehouse.WFA.exe
+C:\Users\samal\source\repos\Storehouse\Storehouse.WFA\obj\Debug\Storehouse.WFA.pdb
+C:\Users\samal\source\repos\Storehouse\Storehouse.WFA\obj\Debug\Storehouse.WFA.Product.resources
+C:\Users\samal\source\repos\Storehouse\Storehouse.WFA\obj\Debug\Storehouse.WFA.Provider.resources
+C:\Users\samal\source\repos\Storehouse\Storehouse.WFA\obj\Debug\Storehouse.WFA.Types.resources
+C:\Users\samal\source\repos\Storehouse\Storehouse.WFA\obj\Debug\Storehouse.WFA.Warehouse.resources

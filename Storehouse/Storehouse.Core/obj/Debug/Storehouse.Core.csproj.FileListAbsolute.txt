@@ -1,0 +1,16 @@
+C:\Users\samal\source\repos\Storehouse\Storehouse.Core\bin\Debug\Storehouse.Core.dll.config
+C:\Users\samal\source\repos\Storehouse\Storehouse.Core\bin\Debug\Storehouse.Core.dll
+C:\Users\samal\source\repos\Storehouse\Storehouse.Core\bin\Debug\Storehouse.Core.pdb
+C:\Users\samal\source\repos\Storehouse\Storehouse.Core\bin\Debug\EntityFramework.dll
+C:\Users\samal\source\repos\Storehouse\Storehouse.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\samal\source\repos\Storehouse\Storehouse.Core\bin\Debug\EntityFramework.xml
+C:\Users\samal\source\repos\Storehouse\Storehouse.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\samal\source\repos\Storehouse\Storehouse.Core\obj\Debug\Storehouse.Core.csprojAssemblyReference.cache
+C:\Users\samal\source\repos\Storehouse\Storehouse.Core\obj\Debug\Storehouse.Core.csproj.CoreCompileInputs.cache
+C:\Users\samal\source\repos\Storehouse\Storehouse.Core\obj\Debug\Storehouse.Core.csproj.CopyComplete
+C:\Users\samal\source\repos\Storehouse\Storehouse.Core\obj\Debug\Storehouse.Core.dll
+C:\Users\samal\source\repos\Storehouse\Storehouse.Core\obj\Debug\Storehouse.Core.pdb
+C:\Users\samal\source\repos\Storehouse\Storehouse.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\samal\source\repos\Storehouse\Storehouse.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\samal\source\repos\Storehouse\Storehouse.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\samal\source\repos\Storehouse\Storehouse.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
